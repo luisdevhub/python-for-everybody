@@ -1,0 +1,38 @@
+# Python for Everybody Specialization
+
+My solutions and exercises from the **Python for Everybody Specialization** by University of Michigan on Coursera.
+
+## 📚 Specialization Structure
+
+This specialization consists of 5 courses:
+
+### ✅ Course 1: Programming for Everybody (Getting Started with Python)
+- **Status:** In Progress 🔄
+- **Topics:**
+  - Introduction to Python
+  - Variables and Expressions
+  - Conditional Execution (if/elif/else)
+  - Functions
+  - Loops and Iterations
+
+### 📦 Course 2: Python Data Structures
+- **Status:** Not started
+
+### 📦 Course 3: Using Python to Access Web Data
+- **Status:** Not started
+
+### 📦 Course 4: Using Databases with Python
+- **Status:** Not started
+
+### 📦 Course 5: Capstone - Retrieving, Processing, and Visualizing Data with Python
+- **Status:** Not started
+
+## 🛠️ Technologies
+- Python 3.x
+
+**Specialization:** [Python for Everybody](https://www.coursera.org/specializations/python)  
+**University:** University of Michigan  
+**Instructor:** Dr. Charles Severance  
+**Platform:** Coursera  
+**Student:** Luis Eduardo Diaz Mc Millan
+**Started:** 02/05/2026
