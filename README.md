@@ -7,7 +7,7 @@ My solutions and exercises from the **Python for Everybody Specialization** by U
 This specialization consists of 5 courses:
 
 ### ✅ Course 1: Programming for Everybody (Getting Started with Python)
-- **Status:** In Progress 🔄
+- **Status:** Completed ✅
 - **Topics:**
   - Introduction to Python
   - Variables and Expressions
@@ -16,7 +16,7 @@ This specialization consists of 5 courses:
   - Loops and Iterations
 
 ### 📦 Course 2: Python Data Structures
-- **Status:** Not started
+- **Status:** In Progress 🔄
 
 ### 📦 Course 3: Using Python to Access Web Data
 - **Status:** Not started
