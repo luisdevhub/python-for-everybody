@@ -17,6 +17,8 @@ This specialization consists of 5 courses:
 
 ### 📦 Course 2: Python Data Structures
 - **Status:** In Progress 🔄
+-  **Topics:**
+  - Parse Text Strings
 
 ### 📦 Course 3: Using Python to Access Web Data
 - **Status:** Not started
