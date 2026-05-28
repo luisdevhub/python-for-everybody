@@ -19,6 +19,8 @@ This specialization consists of 5 courses:
 - **Status:** In Progress 🔄
 -  **Topics:**
   - Parse Text Strings
+  - Processing Files
+  - Lists
 
 ### 📦 Course 3: Using Python to Access Web Data
 - **Status:** Not started
