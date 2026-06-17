@@ -28,7 +28,7 @@ This specialization consists of 5 courses:
 - **Status:** In Progress 🔄
 - Regular Expressions
 - Extracting Data
-- 
+- Networks and Sockets
 
 ### 📦 Course 4: Using Databases with Python
 - **Status:** Not started
