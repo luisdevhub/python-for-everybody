@@ -15,7 +15,7 @@ This specialization consists of 5 courses:
   - Functions
   - Loops and Iterations
 
-### 📦 Course 2: Python Data Structures
+### ✅ Course 2: Python Data Structures
 - **Status:** Completed ✅
 -  **Topics:**
   - Parse Text Strings
@@ -25,10 +25,11 @@ This specialization consists of 5 courses:
   - Tuples
 
 ### 📦 Course 3: Using Python to Access Web Data
-- **Status:** In Progress 🔄
+- **Status:** In Progress 🔄 
 - Regular Expressions
 - Extracting Data
 - Networks and Sockets
+- Programs that Surf the Web
 
 ### 📦 Course 4: Using Databases with Python
 - **Status:** Not started
