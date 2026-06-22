@@ -30,6 +30,7 @@ This specialization consists of 5 courses:
 - Extracting Data
 - Networks and Sockets
 - Programs that Surf the Web
+- Web Services and XML
 
 ### 📦 Course 4: Using Databases with Python
 - **Status:** Not started
