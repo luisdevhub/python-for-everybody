@@ -31,6 +31,7 @@ This specialization consists of 5 courses:
 - Networks and Sockets
 - Programs that Surf the Web
 - Web Services and XML
+- REST, JSON and APIs
 
 ### 📦 Course 4: Using Databases with Python
 - **Status:** Not started
