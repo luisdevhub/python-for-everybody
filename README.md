@@ -24,8 +24,8 @@ This specialization consists of 5 courses:
   - Dictionaries
   - Tuples
 
-### 📦 Course 3: Using Python to Access Web Data
-- **Status:** In Progress 🔄 
+### ✅ Course 3: Using Python to Access Web Data
+- **Status:** Completed ✅
 - Regular Expressions
 - Extracting Data
 - Networks and Sockets
@@ -34,7 +34,7 @@ This specialization consists of 5 courses:
 - REST, JSON and APIs
 
 ### 📦 Course 4: Using Databases with Python
-- **Status:** Not started
+- **Status:** In Progress 🔄 
 
 ### 📦 Course 5: Capstone - Retrieving, Processing, and Visualizing Data with Python
 - **Status:** Not started
