@@ -26,16 +26,16 @@ This specialization consists of 5 courses:
 
 ### ✅ Course 3: Using Python to Access Web Data
 - **Status:** Completed ✅
-- Regular Expressions
-- Extracting Data
-- Networks and Sockets
-- Programs that Surf the Web
-- Web Services and XML
-- REST, JSON and APIs
+  - Regular Expressions
+  - Extracting Data
+  - Networks and Sockets
+  - Programs that Surf the Web
+  - Web Services and XML
+  - REST, JSON and APIs
 
 ### 📦 Course 4: Using Databases with Python
 - **Status:** In Progress 🔄 
-- Object Oriented Python
+  - Object Oriented Python
 
 ### 📦 Course 5: Capstone - Retrieving, Processing, and Visualizing Data with Python
 - **Status:** Not started
