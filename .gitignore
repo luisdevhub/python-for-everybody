@@ -53,3 +53,7 @@ config_local.py
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Database files from tasks sqlite3
+mydatabase.db
+emaildb.sqlite
