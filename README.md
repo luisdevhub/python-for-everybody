@@ -36,7 +36,11 @@ This specialization consists of 5 courses:
 ### 📦 Course 4: Using Databases with Python
 - **Status:** In Progress 🔄 
   - Object Oriented Python
+<<<<<<< HEAD
   - Basic Structured Query Language SQL
+=======
+  
+>>>>>>> 0b6d42b (practicing with macbook)
 
 ### 📦 Course 5: Capstone - Retrieving, Processing, and Visualizing Data with Python
 - **Status:** Not started
