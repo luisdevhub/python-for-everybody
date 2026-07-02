@@ -57,3 +57,4 @@ htmlcov/
 # Database files from tasks sqlite3
 mydatabase.db
 emaildb.sqlite
+trackdb.sqlite
